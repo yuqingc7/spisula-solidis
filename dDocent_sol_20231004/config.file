@@ -1,0 +1,20 @@
+Number of Processors
+40
+Maximum Memory
+0
+Trimming
+no
+Assembly?
+no
+Mapping_Reads?
+yes
+Mapping_Match_Value
+1
+Mapping_MisMatch_Value
+4
+Mapping_GapOpen_Penalty
+6
+Calling_SNPs?
+yes
+Email
+yc2644@cornell.edu

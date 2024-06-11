@@ -1,0 +1,29 @@
+Number of sampled individuals: 540
+Number of runs per K value: 20
+Range of K values: [1, 8]
+
+----------------------------------------------
+   K  Mean_Ln(D|K)        DeltaK     Parsimony
+----------------------------------------------
+   1   -4925409.22             -        0.5000
+   2   -4415865.28     8115.7285        0.7553
+   3   -4443347.50        1.1630        0.1491
+   4   -4518111.96        0.8610       -0.1012
+   5   -4695219.20        1.2519       -0.2061
+   6   -4633476.58        0.2277        0.0994
+   7   -4508027.81        0.9223        0.2251
+   8   -4500759.24             -        0.2716
+
+--------------------
+    Method    Best_K
+--------------------
+    Evanno         2
+ Pritchard         2
+ Parsimony         2
+
+------------------
+Parsimony method:
+------------------
+  Best K = 2
+  Best replicate run = 19
+  Best output file = /Users/yuqingchen/workdir/surf_clams/SNP_20231004_n540_cor_out/str_K2_rep8_f

@@ -1,0 +1,184 @@
+
+dDocent version 2.8.13 started Wed Oct 4 07:45:43 PM EDT 2023 
+
+582 individuals are detected. Is this correct? Enter yes or no and press [ENTER]
+Please double check that all fastq files are named PopA_001.F.fq.gz and PopA_001.R.fq.gz
+
+dDocent version 2.8.13 started Wed Oct 4 07:45:49 PM EDT 2023 
+
+At this point, all configuration information has been entered and dDocent may take several hours to run.
+It is recommended that you move this script to a background operation and disable terminal input and output.
+All data and logfiles will still be recorded.
+To do this:
+Press control and Z simultaneously
+Type 'bg' without the quotes and press enter
+Type 'disown -h' again without the quotes and press enter
+
+Now sit back, relax, and wait for your analysis to finish
+
+Using BWA to map reads
+
+Creating alignment intervals
+
+Using FreeBayes to call SNPs
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2258786 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 194 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2258836 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 120 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2258961 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 375 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2259000 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 475 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2258854 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 245 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2266054 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 252 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2262757 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 294 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2273903 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 222 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2258785 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 740 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2258925 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 325 
+
+multiple instances of freebayes failed.  dDocent will now recalibrate run parameters to use less memory.
+
+Using FreeBayes to call SNPs again
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2422686 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 72 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2414036 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 227 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2417082 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 1192 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2458495 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 974 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2450008 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 1111 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2467580 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 464 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2471155 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 119 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2470780 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 377 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2471303 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 612 
+
+ERROR: freebayes instance DID NOT COMPLETE
+
+See below:
+environment: line 1: 2538764 Killed                  freebayes -b cat-RRG.bam -t mapped.$1.bed -v raw.$1.vcf -f reference.fasta -m 5 -q 5 -E 3 --min-repeat-entropy 1 -V --populations popmap -n 10 -F 0.1 &> fb.$1.error.log
+parallel: This job failed:
+call_genos 1209 
+
+A previous freebayes instance failed again.  dDocent will now recalibrate run parameters to use even less memory.
+
+Using FreeBayes to call SNPs again
+
+Using VCFtools to parse TotalRawSNPS.vcf for SNPs that are called in at least 90% of individuals
+
+dDocent has finished with an analysis in /workdir/yc2644/Spisula/dDocent_sol_20231004 
+
+dDocent started Wed Oct 4 07:45:49 PM EDT 2023 
+
+dDocent finished Sun Oct 8 08:02:06 AM EDT 2023 
+
+After filtering, kept 350441 out of a possible 2898136 Sites 
+
+dDocent 2.8.13 
+The 'd' is silent, hillbilly.

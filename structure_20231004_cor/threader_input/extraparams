@@ -1,0 +1,2 @@
+#define RANDOMIZE      0  // (B) use new random seed for each run
+#define FREQSCORR   1 // (B) allele frequencies are correlated among pops

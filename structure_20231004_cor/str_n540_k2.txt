@@ -1,0 +1,541 @@
+Sample	Group	Cluster1	Cluster2	Site
+413_001	Delmarva	0	1	413
+413_002	Delmarva	0	1	413
+413_003	Delmarva	0	1	413
+413_004	Delmarva	0	1	413
+413_005	Delmarva	0	1	413
+413_006	Delmarva	0	1	413
+413_007	Delmarva	0	1	413
+413_008	Delmarva	0.001	0.999	413
+413_009	Delmarva	0	1	413
+413_010	Delmarva	0	1	413
+413_011	Delmarva	0	1	413
+413_012	Delmarva	0	1	413
+413_013	Delmarva	0	1	413
+413_014	Delmarva	0	1	413
+413_015	Delmarva	0	1	413
+413_016	Delmarva	0	1	413
+413_017	Delmarva	0.001	0.999	413
+413_018	Delmarva	0	1	413
+413_019	Delmarva	0.031	0.969	413
+413_020	Delmarva	0	1	413
+413_021	Delmarva	0	1	413
+413_022	Delmarva	0	1	413
+413_023	Delmarva	0	1	413
+413_024	Delmarva	0	1	413
+413_025	Delmarva	0	1	413
+413_026	Delmarva	0	1	413
+413_027	Delmarva	0	1	413
+413_028	Delmarva	0	1	413
+413_029	Delmarva	0	1	413
+413_030	Delmarva	0	1	413
+413_031	Delmarva	0	1	413
+413_032	Delmarva	0	1	413
+413_033	Delmarva	0	1	413
+413_034	Delmarva	0	1	413
+413_035	Delmarva	0	1	413
+413_036	Delmarva	0	1	413
+413_037	Delmarva	0	1	413
+413_038	Delmarva	0	1	413
+413_039	Delmarva	0	1	413
+413_040	Delmarva	0	1	413
+413_041	Delmarva	0	1	413
+413_042	Delmarva	0.017	0.983	413
+413_043	Delmarva	0	1	413
+413_044	Delmarva	0	1	413
+413_045	Delmarva	0	1	413
+413_046	Delmarva	0	1	413
+413_047	Delmarva	0	1	413
+413_048	Delmarva	0	1	413
+413_049	Delmarva	0	1	413
+413_050	Delmarva	0	1	413
+536_001	George’s Bank	0	1	536
+536_003	George’s Bank	0	1	536
+536_004	George’s Bank	0	1	536
+536_005	George’s Bank	0	1	536
+536_006	George’s Bank	0	1	536
+536_007	George’s Bank	0	1	536
+536_008	George’s Bank	0	1	536
+536_009	George’s Bank	0	1	536
+536_010	George’s Bank	0	1	536
+536_011	George’s Bank	0	1	536
+536_012	George’s Bank	0	1	536
+536_013	George’s Bank	0	1	536
+536_014	George’s Bank	0	1	536
+536_015	George’s Bank	0	1	536
+536_016	George’s Bank	0	1	536
+536_017	George’s Bank	0	1	536
+536_018	George’s Bank	0	1	536
+536_019	George’s Bank	0	1	536
+536_020	George’s Bank	0	1	536
+536_021	George’s Bank	0	1	536
+536_022	George’s Bank	0	1	536
+536_024	George’s Bank	0	1	536
+536_025	George’s Bank	0	1	536
+536_026	George’s Bank	0	1	536
+536_029	George’s Bank	0	1	536
+BAR_001	Cape Cod Bay	0.444	0.556	BAR
+BAR_002	Cape Cod Bay	0.012	0.988	BAR
+BAR_003	Cape Cod Bay	0	1	BAR
+BAR_004	Cape Cod Bay	0.035	0.965	BAR
+BAR_005	Cape Cod Bay	0.014	0.986	BAR
+BAR_006	Cape Cod Bay	0	1	BAR
+BAR_007	Cape Cod Bay	0.003	0.997	BAR
+BAR_008	Cape Cod Bay	0	1	BAR
+BAR_009	Cape Cod Bay	0.001	0.999	BAR
+BAR_010	Cape Cod Bay	0	1	BAR
+BLP_179n	Southern Long Island - East	1	0	BLP
+BLP_190	Southern Long Island - East	1	0	BLP
+BLP_191	Southern Long Island - East	1	0	BLP
+BLP_192	Southern Long Island - East	1	0	BLP
+BLP_193	Southern Long Island - East	1	0	BLP
+BLP_194	Southern Long Island - East	1	0	BLP
+BLP_195	Southern Long Island - East	0.999	0.001	BLP
+BLP_198n	Southern Long Island - East	0.91	0.09	BLP
+BLP_199n	Southern Long Island - East	1	0	BLP
+BLP_212	Southern Long Island - East	1	0	BLP
+BLP_213	Southern Long Island - East	0	1	BLP
+BLP_231	Southern Long Island - East	1	0	BLP
+BLP_233	Southern Long Island - East	0.755	0.245	BLP
+BLP_234	Southern Long Island - East	0.994	0.006	BLP
+BLP_237	Southern Long Island - East	0.993	0.007	BLP
+BRW_001	Cape Cod Bay	0	1	BRW
+BRW_002	Cape Cod Bay	0.045	0.955	BRW
+BRW_003	Cape Cod Bay	0	1	BRW
+BRW_004	Cape Cod Bay	0	1	BRW
+BRW_005	Cape Cod Bay	0	1	BRW
+CGC_001	Cape Cod Bay	0	1	CGC
+CGC_002	Cape Cod Bay	0	1	CGC
+CGC_003	Cape Cod Bay	0	1	CGC
+CGC_004	Cape Cod Bay	0	1	CGC
+CGC_005	Cape Cod Bay	0	1	CGC
+CGC_006	Cape Cod Bay	0.244	0.756	CGC
+CGC_007	Cape Cod Bay	0.703	0.297	CGC
+CGC_008	Cape Cod Bay	0.119	0.881	CGC
+CGC_009	Cape Cod Bay	0	1	CGC
+CGC_010	Cape Cod Bay	0	1	CGC
+CGC_011	Cape Cod Bay	0.032	0.968	CGC
+CTM_008	Cape Cod Bay	0.019	0.981	CTM
+FNJ_001	Delmarva	0	1	FNJ
+FNJ_002	Delmarva	0	1	FNJ
+FNJ_003	Delmarva	0.001	0.999	FNJ
+FNJ_004	Delmarva	0.001	0.999	FNJ
+FNJ_005	Delmarva	0	1	FNJ
+FNJ_006	Delmarva	0	1	FNJ
+FNJ_007	Delmarva	0.031	0.969	FNJ
+FNJ_008	Delmarva	0	1	FNJ
+FNJ_009	Delmarva	0	1	FNJ
+FNJ_010	Delmarva	0	1	FNJ
+FNJ_011	Delmarva	0	1	FNJ
+FNJ_012	Delmarva	0	1	FNJ
+FNJ_013	Delmarva	0	1	FNJ
+FNJ_014	Delmarva	0	1	FNJ
+FNJ_015	Delmarva	0	1	FNJ
+FNJ_016	Delmarva	0	1	FNJ
+FNJ_017	Delmarva	0	1	FNJ
+FNJ_018	Delmarva	0	1	FNJ
+FNJ_019	Delmarva	0.012	0.988	FNJ
+FNJ_020	Delmarva	0	1	FNJ
+FNJ_021	Delmarva	0	1	FNJ
+FNJ_022	Delmarva	0	1	FNJ
+FNJ_023	Delmarva	0	1	FNJ
+FNJ_024	Delmarva	0	1	FNJ
+FNJ_025	Delmarva	0	1	FNJ
+FNJ_026	Delmarva	0	1	FNJ
+FNJ_027	Delmarva	0	1	FNJ
+FNJ_030	Delmarva	0.014	0.986	FNJ
+FNJ_031	Delmarva	0.048	0.952	FNJ
+FNJ_032	Delmarva	0	1	FNJ
+FNJ_033	Delmarva	0	1	FNJ
+FNJ_034	Delmarva	0	1	FNJ
+FNJ_035	Delmarva	0	1	FNJ
+FNJ_036	Delmarva	0.001	0.999	FNJ
+FNJ_037	Delmarva	0.001	0.999	FNJ
+FNJ_038	Delmarva	0	1	FNJ
+FNJ_039	Delmarva	0	1	FNJ
+FNJ_040	Delmarva	0	1	FNJ
+FNJ_041	Delmarva	0	1	FNJ
+FNJ_042	Delmarva	0	1	FNJ
+FNJ_043	Delmarva	0	1	FNJ
+FNJ_044	Delmarva	0	1	FNJ
+FNJ_045	Delmarva	0	1	FNJ
+FNJ_046	Delmarva	0	1	FNJ
+FNJ_047	Delmarva	0	1	FNJ
+FNJ_048	Delmarva	0	1	FNJ
+FNJ_049	Delmarva	0.007	0.993	FNJ
+FNJ_050	Delmarva	0	1	FNJ
+FNJ_051	Delmarva	0	1	FNJ
+GBE_028	George’s Bank	0	1	GBE
+GBE_171	George’s Bank	0	1	GBE
+GBE_172	George’s Bank	0	1	GBE
+GBE_182	George’s Bank	0	1	GBE
+GBE_183	George’s Bank	0	1	GBE
+GBE_184	George’s Bank	0	1	GBE
+GBE_191	George’s Bank	0	1	GBE
+GBE_192	George’s Bank	0	1	GBE
+GBE_193	George’s Bank	0	1	GBE
+GBE_194	George’s Bank	0	1	GBE
+GBE_195	George’s Bank	0	1	GBE
+GBE_196	George’s Bank	0	1	GBE
+GBE_201	George’s Bank	0	1	GBE
+GBE_203	George’s Bank	0	1	GBE
+GBE_261	George’s Bank	0	1	GBE
+GBE_262	George’s Bank	0	1	GBE
+GBE_263	George’s Bank	0	1	GBE
+GBE_291	George’s Bank	0	1	GBE
+GBE_332	George’s Bank	0	1	GBE
+GBE_333	George’s Bank	0	1	GBE
+GBE_334	George’s Bank	0	1	GBE
+GBE_335	George’s Bank	0	1	GBE
+GBE_336	George’s Bank	0	1	GBE
+GBE_371	George’s Bank	0	1	GBE
+GBE_373	George’s Bank	0	1	GBE
+GBE_381	George’s Bank	0	1	GBE
+GBE_382	George’s Bank	0	1	GBE
+GBE_383	George’s Bank	0	1	GBE
+GBE_384	George’s Bank	0	1	GBE
+GBE_385	George’s Bank	0	1	GBE
+GBE_401	George’s Bank	0	1	GBE
+GBE_402	George’s Bank	0	1	GBE
+GBE_441	George’s Bank	0	1	GBE
+GBE_442	George’s Bank	0	1	GBE
+GBE_443	George’s Bank	0	1	GBE
+GBE_471	George’s Bank	0	1	GBE
+GBE_472	George’s Bank	0	1	GBE
+GBE_473	George’s Bank	0	1	GBE
+GBE_481	George’s Bank	0	1	GBE
+GBE_483	George’s Bank	0	1	GBE
+GBE_484	George’s Bank	0	1	GBE
+GBE_521	George’s Bank	0.008	0.992	GBE
+GBE_522	George’s Bank	0	1	GBE
+GBE_523	George’s Bank	0	1	GBE
+MAB22_02638	New Jersey	0	1	MAB22
+MAB22_02757	New Jersey	0	1	MAB22
+MAB22_02822	New Jersey	0	1	MAB22
+MAB22_02889	New Jersey	0	1	MAB22
+MAB22_02957	New Jersey	0	1	MAB22
+MAB22_02959	New Jersey	0	1	MAB22
+MAB22_03373	New Jersey	0	1	MAB22
+MAB22_03483	New Jersey	0.057	0.943	MAB22
+MAB22_03484	New Jersey	0	1	MAB22
+MAB22_03512	New Jersey	0	1	MAB22
+MAB22_03590	New Jersey	0	1	MAB22
+MAB22_03597	New Jersey	0.016	0.984	MAB22
+MAB22_03604	New Jersey	0	1	MAB22
+MAB22_03687	New Jersey	0	1	MAB22
+MAB22_03707	New Jersey	0	1	MAB22
+MAB22_03736	New Jersey	0	1	MAB22
+MAB22_03765	New Jersey	0	1	MAB22
+MAB22_03824	New Jersey	0.001	0.999	MAB22
+MAB22_04410	New Jersey	0	1	MAB22
+MAB22_04427	New Jersey	0	1	MAB22
+MAB22_04444	New Jersey	0	1	MAB22
+MAB22_04450	New Jersey	0.005	0.995	MAB22
+MAB22_04536	New Jersey	0	1	MAB22
+MAB22_04559	New Jersey	0	1	MAB22
+MAB22_04563	New Jersey	0	1	MAB22
+MAB22_04603	New Jersey	0	1	MAB22
+MAB22_04648	New Jersey	0.001	0.999	MAB22
+MAB22_04655	New Jersey	0	1	MAB22
+MAB22_05392	New Jersey	0	1	MAB22
+MAB22_05397	New Jersey	0	1	MAB22
+MAB22_05467	New Jersey	0	1	MAB22
+MAB22_05482	New Jersey	0	1	MAB22
+MAB22_05490	New Jersey	0	1	MAB22
+MAB22_05661	New Jersey	0	1	MAB22
+MAB22_05763	New Jersey	0	1	MAB22
+MAB22_05788	New Jersey	0	1	MAB22
+MAB22_05839	New Jersey	0	1	MAB22
+MAB22_05860	New Jersey	0	1	MAB22
+MAB22_05917	New Jersey	0	1	MAB22
+MAB22_05952	New Jersey	0	1	MAB22
+MAB22_06029	New Jersey	0	1	MAB22
+MAB22_06571	New Jersey	0	1	MAB22
+MAB22_06578	New Jersey	0	1	MAB22
+MAB22_06647	New Jersey	0	1	MAB22
+MAB22_06691	New Jersey	0	1	MAB22
+MAB22_06710	New Jersey	0	1	MAB22
+MAB22_06747	New Jersey	0	1	MAB22
+MAB22_06779	New Jersey	0	1	MAB22
+MAB22_07043	New Jersey	0	1	MAB22
+MAB22_07049	New Jersey	0	1	MAB22
+MAB22_07056	New Jersey	0	1	MAB22
+MAB22_07092	New Jersey	0	1	MAB22
+MAB22_07926	Delmarva	0	1	MAB22
+MAB22_08024	Delmarva	0	1	MAB22
+MAB22_09577	Delmarva	0	1	MAB22
+MAB22_09590	Delmarva	0	1	MAB22
+MAB22_09611	Delmarva	0.095	0.905	MAB22
+MAB22_09612	Delmarva	0	1	MAB22
+MAB22_09678	Delmarva	0	1	MAB22
+MAB22_10006	Delmarva	0	1	MAB22
+MAB22_10035	Delmarva	0	1	MAB22
+MAB22_10037	Delmarva	0	1	MAB22
+MAB22_10040	Delmarva	0	1	MAB22
+MAB22_10200	Delmarva	0	1	MAB22
+MAB22_10213	Delmarva	0	1	MAB22
+MAB22_10219	Delmarva	0	1	MAB22
+MAB22_10220	Delmarva	0	1	MAB22
+MAB22_10762	Delmarva	0	1	MAB22
+MAB22_10763	Delmarva	0	1	MAB22
+MAB22_10764	Delmarva	0	1	MAB22
+MAB22_11194	Delmarva	0	1	MAB22
+MAB22_11233	Delmarva	0.003	0.997	MAB22
+MAB22_11256	Delmarva	0	1	MAB22
+MAB22_11262	Delmarva	0	1	MAB22
+MAB22_11310	Delmarva	0	1	MAB22
+MAB22_11533	Delmarva	0	1	MAB22
+MAB22_11537	Delmarva	0	1	MAB22
+MAB22_11541	Delmarva	0.094	0.906	MAB22
+MAB22_11546	Delmarva	0	1	MAB22
+MAB22_11707	Delmarva	0	1	MAB22
+MAB22_11835	Delmarva	0	1	MAB22
+MAB22_11838	Delmarva	0	1	MAB22
+MAB22_11840	Delmarva	0	1	MAB22
+MAB22_11856	Delmarva	0	1	MAB22
+MAB22_11858	Delmarva	0	1	MAB22
+MAB22_11860	Delmarva	0.037	0.963	MAB22
+MAB22_11861	Delmarva	0.043	0.957	MAB22
+MAB22_11863	Delmarva	0	1	MAB22
+MAB22_11865	Delmarva	0	1	MAB22
+MAB22_11868	Delmarva	0	1	MAB22
+MAB22_12095	Delmarva	0	1	MAB22
+MAB22_12096	Delmarva	0	1	MAB22
+MAB22_12113	Delmarva	0	1	MAB22
+MAB22_12116	Delmarva	0	1	MAB22
+MAB22_12125	Delmarva	1	0	MAB22
+MAB22_12127	Delmarva	0	1	MAB22
+MAB22_12130	Delmarva	0	1	MAB22
+MAB22_12134	Delmarva	0	1	MAB22
+MAB22_12173	Delmarva	0	1	MAB22
+MAB22_12174	Delmarva	0	1	MAB22
+MAB22_12176	Delmarva	0	1	MAB22
+MAB22_12212	Delmarva	0.038	0.962	MAB22
+MAB22_12237	Delmarva	0	1	MAB22
+MAB22_12494	Delmarva	0	1	MAB22
+MAB22_12537	Delmarva	0	1	MAB22
+MAB22_12602	Delmarva	0	1	MAB22
+MAB22_12697	Delmarva	0	1	MAB22
+MAB22_12705	Delmarva	0	1	MAB22
+MAB22_13195	Delmarva	0	1	MAB22
+MAB22_13230	Delmarva	0	1	MAB22
+MAB22_13233	Delmarva	0	1	MAB22
+MAB22_13238	Delmarva	0	1	MAB22
+MAB22_13245	Delmarva	0	1	MAB22
+MAB22_14131	Delmarva	0	1	MAB22
+MAB22_14148	Delmarva	0	1	MAB22
+MAB22_14151	Delmarva	0	1	MAB22
+MAB22_14161	Delmarva	0	1	MAB22
+MAB22_14229	Delmarva	0	1	MAB22
+MAB22_14461	Delmarva	0	1	MAB22
+MAB22_14509	Delmarva	0	1	MAB22
+MAB22_14542	Delmarva	0	1	MAB22
+MAB22_14543	Delmarva	0	1	MAB22
+MAB22_14545	Delmarva	0.001	0.999	MAB22
+MAB22_14547	Delmarva	0	1	MAB22
+MAB22_14557	Delmarva	0	1	MAB22
+MAB22_14561	Delmarva	0	1	MAB22
+MAB22_14928	Delmarva	0	1	MAB22
+MAB22_14941	Delmarva	0	1	MAB22
+MAB22_14947	Delmarva	0	1	MAB22
+MAB22_14954	Delmarva	0	1	MAB22
+MAB22_14955	Delmarva	0	1	MAB22
+MAB22_14958	Delmarva	0.017	0.983	MAB22
+MAB22_15450	New Jersey	0	1	MAB22
+MAB22_15455	New Jersey	0	1	MAB22
+MAB22_15457	New Jersey	0	1	MAB22
+MAB22_15459	New Jersey	0	1	MAB22
+MAB22_15806	New Jersey	0	1	MAB22
+MAB22_17243	New Jersey	0	1	MAB22
+MAB22_17246	New Jersey	0	1	MAB22
+MAB22_17620	New Jersey	0	1	MAB22
+MAB22_17626	New Jersey	0	1	MAB22
+MAB22_17650	New Jersey	0	1	MAB22
+MAB22_17672	New Jersey	0	1	MAB22
+MAB22_18643	New Jersey	0	1	MAB22
+MAB22_18704	New Jersey	0	1	MAB22
+MAB22_18737	New Jersey	0	1	MAB22
+MAB22_18760	New Jersey	0	1	MAB22
+MAB22_18763	New Jersey	0	1	MAB22
+MAB22_18774	New Jersey	0	1	MAB22
+MAB22_18793	New Jersey	0	1	MAB22
+MAB22_21224	Southern Long Island - East	0	1	MAB22
+MCX_015	Southern Long Island - East	1	0	MCX
+MCX_016	Southern Long Island - East	1	0	MCX
+MCX_017	Southern Long Island - East	1	0	MCX
+MCX_018	Southern Long Island - East	1	0	MCX
+MCX_019	Southern Long Island - East	1	0	MCX
+MCX_020	Southern Long Island - East	1	0	MCX
+MCX_021	Southern Long Island - East	0.98	0.02	MCX
+MCX_027	Southern Long Island - East	1	0	MCX
+MCX_029	Southern Long Island - East	1	0	MCX
+MCX_030	Southern Long Island - East	1	0	MCX
+MCX_031	Southern Long Island - East	1	0	MCX
+MCX_032	Southern Long Island - East	1	0	MCX
+MCX_033	Southern Long Island - East	1	0	MCX
+MCX_034	Southern Long Island - East	1	0	MCX
+MCX_035	Southern Long Island - East	0.977	0.023	MCX
+MCX_038	Southern Long Island - East	0.921	0.079	MCX
+MCX_039	Southern Long Island - East	1	0	MCX
+MCX_046	Southern Long Island - East	1	0	MCX
+MCX_047	Southern Long Island - East	1	0	MCX
+MCX_055	Southern Long Island - East	1	0	MCX
+MCX_061	Southern Long Island - East	1	0	MCX
+MCX_062	Southern Long Island - East	1	0	MCX
+MCX_066	Southern Long Island - East	1	0	MCX
+MCX_067	Southern Long Island - East	1	0	MCX
+MCX_068	Southern Long Island - East	1	0	MCX
+MCX_069	Southern Long Island - East	1	0	MCX
+MCX_079	Southern Long Island - East	1	0	MCX
+MCX_080	Southern Long Island - East	1	0	MCX
+MCX_084	Southern Long Island - East	1	0	MCX
+MCX_089	Southern Long Island - East	1	0	MCX
+MCX_090	Southern Long Island - East	1	0	MCX
+MCX_091	Southern Long Island - East	1	0	MCX
+MCX_093	Southern Long Island - East	1	0	MCX
+MCX_096	Southern Long Island - East	1	0	MCX
+MW_001	Southern Coast of Cape Cod	0	1	MW
+MW_002	Southern Coast of Cape Cod	0	1	MW
+MW_016	Southern Coast of Cape Cod	0	1	MW
+NAN_001	Nantucket Shoals	0	1	NAN
+NAN_002	Nantucket Shoals	0.008	0.992	NAN
+NAN_003	Nantucket Shoals	0	1	NAN
+NAN_007	Nantucket Shoals	0	1	NAN
+NAN_008	Nantucket Shoals	0	1	NAN
+NAN_009	Nantucket Shoals	0	1	NAN
+NAN_010	Nantucket Shoals	0	1	NAN
+NAN_012	Nantucket Shoals	0	1	NAN
+NAN_014	Nantucket Shoals	0	1	NAN
+NAN_019	Nantucket Shoals	0	1	NAN
+NAN_021	Nantucket Shoals	0	1	NAN
+NAN_022	Nantucket Shoals	0	1	NAN
+NAN_023	Nantucket Shoals	0	1	NAN
+NAN_024	Nantucket Shoals	0	1	NAN
+NAN_025	Nantucket Shoals	0	1	NAN
+NAN_026	Nantucket Shoals	0	1	NAN
+NAN_028	Nantucket Shoals	0	1	NAN
+NAN_031	Nantucket Shoals	0.001	0.999	NAN
+NAN_033	Nantucket Shoals	0	1	NAN
+NAN_034	Nantucket Shoals	0	1	NAN
+NAN_036	Nantucket Shoals	0	1	NAN
+NAN_038	Nantucket Shoals	0	1	NAN
+NAN_039	Nantucket Shoals	0	1	NAN
+NAN_041	Nantucket Shoals	0	1	NAN
+NAN_042	Nantucket Shoals	0	1	NAN
+NAN_045	Nantucket Shoals	0	1	NAN
+NAN_046	Nantucket Shoals	0	1	NAN
+NAN_048	Nantucket Shoals	0	1	NAN
+NAN_049	Nantucket Shoals	0	1	NAN
+NAN_050	Nantucket Shoals	0	1	NAN
+PLY_001	Cape Cod Bay	0.636	0.364	PLY
+PLY_002	Cape Cod Bay	0.29	0.71	PLY
+PLY_003	Cape Cod Bay	0	1	PLY
+PLY_004	Cape Cod Bay	0.05	0.95	PLY
+PLY_005	Cape Cod Bay	0.012	0.988	PLY
+PLY_006	Cape Cod Bay	0.054	0.946	PLY
+PLY_007	Cape Cod Bay	0	1	PLY
+PLY_008	Cape Cod Bay	0.002	0.998	PLY
+PLY_009	Cape Cod Bay	0	1	PLY
+PLY_010	Cape Cod Bay	0.81	0.19	PLY
+PT_003	Cape Cod Bay	0.001	0.999	PT
+PT_006	Cape Cod Bay	0	1	PT
+PT_008	Cape Cod Bay	0.006	0.994	PT
+PT_009	Cape Cod Bay	0	1	PT
+PT_010	Cape Cod Bay	0.012	0.988	PT
+PT_011	Cape Cod Bay	0.002	0.998	PT
+PT_012	Cape Cod Bay	0	1	PT
+PT_013	Cape Cod Bay	0	1	PT
+PT_014	Cape Cod Bay	0	1	PT
+PT_016	Cape Cod Bay	0.108	0.892	PT
+PT_017	Cape Cod Bay	0.007	0.993	PT
+PT_018	Cape Cod Bay	0	1	PT
+PT_019	Cape Cod Bay	0.069	0.931	PT
+PT_01n	Cape Cod Bay	0	1	PT
+PT_020	Cape Cod Bay	0	1	PT
+PT_04n	Cape Cod Bay	0.134	0.866	PT
+PT_05n	Cape Cod Bay	0.027	0.973	PT
+PT_07n	Cape Cod Bay	0.023	0.977	PT
+PVT_001	Cape Cod Bay	0.164	0.836	PVT
+PVT_002	Cape Cod Bay	0.001	0.999	PVT
+PVT_003	Cape Cod Bay	0	1	PVT
+PVT_004	Cape Cod Bay	0	1	PVT
+PVT_005	Cape Cod Bay	0.227	0.773	PVT
+PVT_006	Cape Cod Bay	0	1	PVT
+PVT_007	Cape Cod Bay	0	1	PVT
+PVT_008	Cape Cod Bay	0.014	0.986	PVT
+PVT_009	Cape Cod Bay	0.05	0.95	PVT
+PVT_010	Cape Cod Bay	0	1	PVT
+SHN_102	Southern Long Island - East	1	0	SHN
+SHN_103	Southern Long Island - East	0.985	0.015	SHN
+SHN_104	Southern Long Island - East	0	1	SHN
+SHN_151	Southern Long Island - East	1	0	SHN
+SHN_152	Southern Long Island - East	1	0	SHN
+SsLI1101_1	Southern Long Island - West	1	0	SsLI
+SsLI1102_1	Southern Long Island - West	1	0	SsLI
+SsLI1102_2	Southern Long Island - West	1	0	SsLI
+SsLI1102_3	Southern Long Island - West	1	0	SsLI
+SsLI1102_4	Southern Long Island - West	1	0	SsLI
+SsLI1107_1	Southern Long Island - West	0.992	0.008	SsLI
+SsLI1107_2	Southern Long Island - West	1	0	SsLI
+SsLI1107_3	Southern Long Island - West	1	0	SsLI
+SsLI1112_1	Southern Long Island - West	0.889	0.111	SsLI
+SsLI1112_2	Southern Long Island - West	1	0	SsLI
+SsLI1113_4	Southern Long Island - West	0.854	0.146	SsLI
+SsLI1113_5	Southern Long Island - West	0.992	0.008	SsLI
+SsLI1116_2	Southern Long Island - West	0.999	0.001	SsLI
+SsLI1117_2	Southern Long Island - West	0	1	SsLI
+SsLI1117_4	Southern Long Island - West	1	0	SsLI
+SsLI2101_7	Southern Long Island - West	0	1	SsLI
+SsLI2107_1	Southern Long Island - West	1	0	SsLI
+SsLI2107_2	Southern Long Island - West	1	0	SsLI
+SsLI2108_1	Southern Long Island - West	1	0	SsLI
+SsLI2108_2n	Southern Long Island - West	0.982	0.018	SsLI
+SsLI2108_3	Southern Long Island - West	0.951	0.049	SsLI
+SsLI2109_2	Southern Long Island - West	1	0	SsLI
+SsLI2109_3	Southern Long Island - West	0.985	0.015	SsLI
+SsLI2109_4	Southern Long Island - West	1	0	SsLI
+SsLI3105_2	Southern Long Island - West	1	0	SsLI
+SsLI3105_3	Southern Long Island - West	1	0	SsLI
+SsLI3105_5	Southern Long Island - West	1	0	SsLI
+SsLI3109_1	Southern Long Island - East	1	0	SsLI
+SsLI3109_2	Southern Long Island - East	1	0	SsLI
+SsLI3109_3	Southern Long Island - East	1	0	SsLI
+SsLI3109_4	Southern Long Island - East	0.985	0.015	SsLI
+SsLI3109_5	Southern Long Island - East	1	0	SsLI
+SsLI4106_1	Southern Long Island - East	0.002	0.998	SsLI
+SsLI4106_2	Southern Long Island - East	0.001	0.999	SsLI
+SsLI4106_3	Southern Long Island - East	0.687	0.313	SsLI
+SsLI4106_4	Southern Long Island - East	0.02	0.98	SsLI
+SsLI4106_5	Southern Long Island - East	0	1	SsLI
+SsLI4109_1	Southern Long Island - East	0.975	0.025	SsLI
+SsLI4109_3n	Southern Long Island - East	1	0	SsLI
+SsLI4121_2	Southern Long Island - East	1	0	SsLI
+SsLI4121_3	Southern Long Island - East	1	0	SsLI
+SsLI4121_4	Southern Long Island - East	1	0	SsLI
+SsLI4121_5	Southern Long Island - East	1	0	SsLI
+SsLI4129_1	Southern Long Island - East	1	0	SsLI
+SsLI4129_2	Southern Long Island - East	0	1	SsLI
+SsLI4129_3	Southern Long Island - East	1	0	SsLI
+SsLI4139_1	Southern Long Island - East	0	1	SsLI
+SsLI4146_1	Southern Long Island - East	1	0	SsLI
+SsLI4146_2	Southern Long Island - East	1	0	SsLI
+WV1_001	Southern Coast of Cape Cod	1	0	WV
+WV1_002	Southern Coast of Cape Cod	1	0	WV
+WV1_003	Southern Coast of Cape Cod	1	0	WV
+WV1_004	Southern Coast of Cape Cod	1	0	WV
+WV1_005	Southern Coast of Cape Cod	1	0	WV
+WV1_006	Southern Coast of Cape Cod	1	0	WV
+WV1_007	Southern Coast of Cape Cod	1	0	WV
+WV1_008	Southern Coast of Cape Cod	1	0	WV
+WV1_009	Southern Coast of Cape Cod	1	0	WV
+WV1_010	Southern Coast of Cape Cod	0.986	0.014	WV
+WV5_001	Southern Coast of Cape Cod	1	0	WV
+WV5_002	Southern Coast of Cape Cod	1	0	WV
+WV5_003	Southern Coast of Cape Cod	1	0	WV
+WV5_004	Southern Coast of Cape Cod	1	0	WV
+WV5_005	Southern Coast of Cape Cod	1	0	WV
+WV5_006	Southern Coast of Cape Cod	1	0	WV
+WV5_007	Southern Coast of Cape Cod	1	0	WV
+WV5_008	Southern Coast of Cape Cod	1	0	WV
+WV5_009	Southern Coast of Cape Cod	1	0	WV
+WV5_010	Southern Coast of Cape Cod	1	0	WV
