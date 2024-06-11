@@ -1,0 +1,42 @@
+ ____  _____    _    ____ 
+|  _ \| ____|  / \  |  _ \
+| |_) |  _|   / _ \ | |_) |
+|  __/| |___ / ___ \|  _ <
+|_|   |_____/_/   \_\_| \_\
+
+PEAR v0.9.6 [January 15, 2015]
+
+Citation - PEAR: a fast and accurate Illumina Paired-End reAd mergeR
+Zhang et al (2014) Bioinformatics 30(5): 614-620 | doi:10.1093/bioinformatics/btt593
+
+Forward reads file.................: ref.F.fq
+Reverse reads file.................: ref.R.fq
+PHRED..............................: 33
+Using empirical frequencies........: YES
+Statistical method.................: OES
+Maximum assembly length............: 999999
+Minimum assembly length............: 68
+p-value............................: 0.001000
+Quality score threshold (trimming).: 0
+Minimum read size after trimming...: 1
+Maximal ratio of uncalled bases....: 1.000000
+Minimum overlap....................: 10
+Scoring method.....................: Scaled score
+Threads............................: 23
+
+Allocating memory..................: 200,000,000 bytes
+Computing empirical frequencies....: DONE
+  A: 0.319512
+  C: 0.178534
+  G: 0.182131
+  T: 0.319823
+  0 uncalled bases
+Assemblying reads: 0%Assemblying reads: 100%
+
+Assembled reads ...................: 5,008 / 42,068 (11.905%)
+Discarded reads ...................: 0 / 42,068 (0.000%)
+Not assembled reads ...............: 37,060 / 42,068 (88.095%)
+Assembled reads file...............: overlap.assembled.fastq
+Discarded reads file...............: overlap.discarded.fastq
+Unassembled forward reads file.....: overlap.unassembled.forward.fastq
+Unassembled reverse reads file.....: overlap.unassembled.reverse.fastq

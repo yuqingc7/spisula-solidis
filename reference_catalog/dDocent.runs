@@ -1,0 +1,54 @@
+Variables used in dDocent (version 2.8.13) run at Sun Nov 28 23:18:00 EST 2021
+Number of Processors
+23
+Trimming
+no
+Assembly?
+yes
+Type_of_Assembly
+PE
+Clustering_Similarity%
+0.9
+Minimum within individaul coverage level to include a read for assembly (K1)
+5
+Minimum number of individuals a read must be present in to include for assembly (K2)
+6
+Mapping_Reads?
+no
+Mapping_Match_Value
+1
+Mapping_MisMatch_Value
+4
+Mapping_GapOpen_Penalty
+6
+Calling_SNPs?
+no
+Email
+hh693@cornell.edu
+Variables used in dDocent (version 2.8.13) run at Sun Nov 28 23:24:13 EST 2021
+Number of Processors
+23
+Trimming
+no
+Assembly?
+yes
+Type_of_Assembly
+PE
+Clustering_Similarity%
+0.9
+Minimum within individaul coverage level to include a read for assembly (K1)
+5
+Minimum number of individuals a read must be present in to include for assembly (K2)
+6
+Mapping_Reads?
+no
+Mapping_Match_Value
+1
+Mapping_MisMatch_Value
+4
+Mapping_GapOpen_Penalty
+6
+Calling_SNPs?
+no
+Email
+hh693@cornell.edu

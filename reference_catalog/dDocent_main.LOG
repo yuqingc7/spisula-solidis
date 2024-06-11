@@ -1,0 +1,112 @@
+
+dDocent version 2.8.13 started Sun Nov 28 23:24:13 EST 2021 
+
+66 individuals are detected. Is this correct? Enter yes or no and press [ENTER]
+Proceeding with 66 individuals
+dDocent detects 24 processors available on this system.
+Please enter the maximum number of processors to use for this analysis.
+
+Do you want to quality trim your reads?
+Type yes or no and press [ENTER]?
+
+Do you want to perform an assembly?
+Type yes or no and press [ENTER].
+What type of assembly would you like to perform?  Enter SE for single end, PE for paired-end, RPE for paired-end sequencing for RAD protocols with random shearing, or OL for paired-end sequencing that has substantial overlap.
+Then press [ENTER]
+Reads will be assembled with Rainbow
+CD-HIT will cluster reference sequences by similarity. The -c parameter (% similarity to cluster) may need to be changed for your taxa.
+Would you like to enter a new c parameter now? Type yes or no and press [ENTER]
+Proceeding with default 0.9 value.
+Do you want to map reads?  Type yes or no and press [ENTER]
+Mapping will not be performed
+Do you want to use FreeBayes to call SNPs?  Please type yes or no and press [ENTER]
+
+Please enter your email address.  dDocent will email you when it is finished running.
+Don't worry; dDocent has no financial need to sell your email address to spammers.
+
+
+dDocent will require input during the assembly stage.  Please wait until prompt says it is safe to move program to the background.
+                                                                                                                        
+                                                                                                                        
+                       Number of Unique Sequences with More than X Coverage (Counted within individuals)                
+    2e+07 +---------------------------------------------------------------------------------------------------------+   
+          |           +           +          +           +           +           +          +           +           |   
+          |*                                                                                                        |   
+  1.8e+07 |*+                                                                                                     +-|   
+          | *                                                                                                       |   
+  1.6e+07 |-*                                                                                                     +-|   
+          |  *                                                                                                      |   
+          |  *                                                                                                      |   
+  1.4e+07 |-+ *                                                                                                   +-|   
+          |   *                                                                                                     |   
+  1.2e+07 |-+  *                                                                                                  +-|   
+          |    *                                                                                                    |   
+          |     *                                                                                                   |   
+    1e+07 |-+   ***                                                                                               +-|   
+          |        **                                                                                               |   
+    8e+06 |-+        *                                                                                            +-|   
+          |           *****                                                                                         |   
+          |                *                                                                                        |   
+    6e+06 |-+               ******                                                                                +-|   
+          |                       ***********                                                                       |   
+    4e+06 |-+                                ************                                                         +-|   
+          |                                              ******************************                             |   
+          |           +           +          +           +           +           +     *****************************|   
+    2e+06 +---------------------------------------------------------------------------------------------------------+   
+          2           4           6          8           10          12          14         16          18          20  
+                                                           Coverage                                                     
+                                                                                                                        
+Please choose data cutoff.  In essence, you are picking a minimum (within individual) coverage level for a read (allele) to be used in the reference assembly
+                                                                                                                        
+                                                                                                                        
+                                 Number of Unique Sequences present in more than X Individuals                          
+   800000 +---------------------------------------------------------------------------------------------------------+   
+          |     *        +              +              +               +              +              +              |   
+          |     *                                                                                                   |   
+   700000 |-+    *                                                                                                +-|   
+          |      *                                                                                                  |   
+          |       *                                                                                                 |   
+   600000 |-+     *                                                                                               +-|   
+          |       *                                                                                                 |   
+          |        *                                                                                                |   
+   500000 |-+      *                                                                                              +-|   
+          |         *                                                                                               |   
+   400000 |-+        *                                                                                            +-|   
+          |          *                                                                                              |   
+          |           ***                                                                                           |   
+   300000 |-+                                                                                                     +-|   
+          |              ***                                                                                        |   
+          |                 ***                                                                                     |   
+   200000 |-+                  ***                                                                                +-|   
+          |                       ***                                                                               |   
+          |                          ******                                                                         |   
+   100000 |-+                              *********                                                              +-|   
+          |                                         ****************                                                |   
+          |              +              +              +            *******************************************     |   
+        0 +---------------------------------------------------------------------------------------------------------+   
+          0              5              10             15              20             25             30             35  
+                                                     Number of Individuals                                              
+                                                                                                                        
+Please choose data cutoff.  Pick point right before the assymptote. A good starting cutoff might be 10% of the total number of individuals
+At this point, all configuration information has been entered and dDocent may take several hours to run.
+It is recommended that you move this script to a background operation and disable terminal input and output.
+All data and logfiles will still be recorded.
+To do this:
+Press control and Z simultaneously
+Type 'bg' without the quotes and press enter
+Type 'disown -h' again without the quotes and press enter
+
+Now sit back, relax, and wait for your analysis to finish
+
+dDocent assembled 228768 sequences (after cutoffs) into 62302 contigs
+
+dDocent has finished with an analysis in /workdir/hh693/sol_reads/dDoc_1128 
+
+dDocent started Sun Nov 28 23:24:13 EST 2021 
+
+dDocent finished Mon Nov 29 00:45:26 EST 2021 
+
+ 
+
+dDocent 2.8.13 
+The 'd' is silent, hillbilly.
