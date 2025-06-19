@@ -1,4 +1,4 @@
-# Spisula-Sol
+# spisula-solidis
 This repository contains scripts and some summary information for the Atlantic surf clam (*Spisula solidissima solidissima*) manuscript. The genomic data identified, for the first time, morphologically cryptic, deep population structure within *S.s. solidissima*. 
 
 Contributors: Hannah Hartung (hh693@cornell.edu), Yuqing Chen (yc2644@cornell.edu) 
